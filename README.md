@@ -1,5 +1,5 @@
 # filewatcher
 A golang file watcher and processor.
 
-#NOTE
+# NOTE
 This project is still in development.
